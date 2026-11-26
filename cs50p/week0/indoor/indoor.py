@@ -1,4 +1,4 @@
 def main():
     voice = input("Listening...: ")
-    return print(voice.lower())
+    print(voice.lower())
 main()
